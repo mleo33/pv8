@@ -1,0 +1,2 @@
+// For GoDaddy
+composer install --ignore-platform-reqs
